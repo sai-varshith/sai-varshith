@@ -24,4 +24,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sai-varshith&show_icons=true&locale=en" alt="sai-varshith" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sai-varshith&" alt="sai-varshith" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sai-varshith&" alt="sai-varshith" /></p>
