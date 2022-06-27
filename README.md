@@ -1,6 +1,6 @@
 [![MasterHead](https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif)](https://sai-varshith.io)
 <h1 align="center">Hi 👋, I'm Sai Varshith Gadhamsetty</h1>
-<h3 align="center">A passionate Full Stack Developer.</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sai-varshith&label=Profile%20views&color=0e75b6&style=flat" alt="sai-varshith" /> </p>
 
