@@ -23,7 +23,7 @@
 
 <h2><i>⚙️ GitHub Analytics</i></h2>
 <p align="center">
-<a href="https://github.com/samiullahsaleem">
+<a href="https://github.com/sai-varshith">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=sai-varshith&show_icons=true&theme=algolia&locale=en&layout=compact" alt="sai-varshith"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sai-varshith&show_icons=true&locale=en&theme=algolia"/>
 </a>
