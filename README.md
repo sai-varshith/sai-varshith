@@ -44,18 +44,6 @@
   <li><b>Data Engineer</b> - Built scalable data pipelines using PySpark and Azure Databricks, optimizing ETL processes and improving data accuracy.</li>
 </ul>
 
-<h2>🚀 Featured Projects</h2>
-<p align="center">
-  <a href="https://github.com/sai-varshith/F1-Racing-Insights" target="_blank">
-    <img src="https://img.shields.io/badge/F1 Racing Insights-Data Analysis & Visualization-blue?style=for-the-badge&logo=github" alt="F1 Racing Insights"/>
-  </a>
-  <a href="https://github.com/sai-varshith/Lets-Talk" target="_blank">
-    <img src="https://img.shields.io/badge/Forecast Validation-Business Insights-green?style=for-the-badge&logo=github" alt="Forecast Validation"/>
-  </a>
-  <a href="https://github.com/sai-varshith/cod-ex" target="_blank">
-    <img src="https://img.shields.io/badge/Data Engineering ETL-Optimizing Workflows-orange?style=for-the-badge&logo=github" alt="Data Engineering ETL"/>
-  </a>
-</p>
 
 <p align="center">🔎 Click on any project to explore further!</p>
 
