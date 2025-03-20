@@ -50,10 +50,10 @@
     <img src="https://img.shields.io/badge/F1 Racing Insights-blue?style=for-the-badge&logo=github" alt="F1 Racing Insights"/>
   </a>
   <a href="https://github.com/sai-varshith/Lets-Talk" target="_blank">
-    <img src="https://img.shields.io/badge/Forecast Validation-green?style=for-the-badge&logo=github" alt="Forecast Validation"/>
+    <img src="https://img.shields.io/badge/Forecast Validation-green?style=for-the-badge&logo=github" alt="Let's Talk"/>
   </a>
   <a href="https://github.com/sai-varshith/cod-ex" target="_blank">
-    <img src="https://img.shields.io/badge/Data Engineering ETL-orange?style=for-the-badge&logo=github" alt="Data Engineering ETL"/>
+    <img src="https://img.shields.io/badge/Data Engineering ETL-orange?style=for-the-badge&logo=github" alt="CODEX"/>
   </a>
 </p>
 
