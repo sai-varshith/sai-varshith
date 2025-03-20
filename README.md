@@ -34,8 +34,7 @@
 <!-- Experience Section -->
 <h2>💼 Experience</h2>
 <ul>
-  <li><b>Data Analyst, ZS Associates</b> - Managed data for 40+ brands across 15+ markets, reducing operational inefficiencies by automating workflows and ensuring accurate data insights.</li>
-  <li><b>Business Analysis</b> - Conducted end-to-end data validation and collaborated with cross-functional teams to improve business decisions and streamline processes.</li>
+  <li><b>Data Analyst, ZS Associates</b> - Managed data for 40+ brands across 15+ markets, reducing operational inefficiencies by automating workflows and ensuring accurate data insights and Conducted end-to-end data validation and collaborated with cross-functional teams to improve business decisions and streamline processes.</li>
 </ul>
 
 <!-- Projects Section -->
@@ -45,15 +44,16 @@
   <li><b>Data Engineer</b> - Built scalable data pipelines using PySpark and Azure Databricks, optimizing ETL processes and improving data accuracy.</li>
 </ul>
 
-<!-- GitHub Stats -->
-<h2>⚙️ GitHub Analytics</h2>
+<!-- Skills Progress -->
+<h2>📊 Skills Progress</h2>
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=sai-varshith&show_icons=true&theme=algolia&locale=en&layout=compact" alt="sai-varshith"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sai-varshith&show_icons=true&locale=en&theme=algolia"/>
+  <img src="https://progress-bar.dev/90/?title=SQL" />
+  <img src="https://progress-bar.dev/80/?title=Python" />
+  <img src="https://progress-bar.dev/85/?title=Data_Visualization" />
+  <img src="https://progress-bar.dev/75/?title=Azure" />
+  <img src="https://progress-bar.dev/70/?title=PySpark" />
 </p>
-<p align="center">
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=sai-varshith&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" alt="sai-varshith" />
-</p>
+
 
 <!-- Additional Section -->
 <h2>🌟 AWARDS & RECOGNITIONS</h2>
