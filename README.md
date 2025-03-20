@@ -1,32 +1,62 @@
-[![MasterHead](https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif)](https://sai-varshith.io)
+<!-- Banner Section -->
+![Data Analyst Banner](./A_modern,_professional_data_analyst_working_on_a_c.png)
+
 <h1 align="center">Hi 👋, I'm Sai Varshith Gadhamsetty</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sai-varshith&label=Profile%20views&color=0e75b6&style=flat" alt="sai-varshith" /> </p>
+<p align="center">Results-oriented Data Analyst specializing in data management, visualization, and business intelligence, dedicated to delivering actionable insights that drive decision-making and business growth.</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sai-varshith" alt="sai-varshith" /></a> </p>
+<!-- Profile Views Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sai-varshith&label=Profile%20views&color=0e75b6&style=flat" alt="sai-varshith" />
+</p>
 
-👀<b> About Me</b>
+<!-- Contact Section -->
+<h2>📫 Connect with Me</h2>
+<p align="center">
+  <a href="https://linkedin.com/in/sai-varshith-0a456620b"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+  <a href="mailto:saivarshith922@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+</p>
+
+<!-- Skills Section -->
+<h2>🔎 Skills</h2>
 <ul>
-  <li>Data Analyst | Data Engineer | Business Analyst</li>
-  <li>Skilled in SQL, Python, PySpark, and Microsoft Azure</li>
-  <li>Specialized in Data Management, Data Validation & Business Intelligence</li>
-  <li>Experienced in Automating Workflows and Building Scalable Data Solutions</li>
+  <li>Programming & Databases: Python, SQL, C++</li>
+  <li>Data Analysis & Visualization: Excel, Power BI</li>
+  <li>Data Engineering: Azure Databricks, ETL, Microsoft Azure, PySpark</li>
+  <li>Big Data Technologies: Spark, Hive, MapReduce</li>
+  <li>Business Intelligence: Rapid Response (RR), SAP</li>
+  <li>Data Management: Data Modeling, ADLS, Pipelines</li>
+  <li>Business Analysis: Stakeholder Management, Client Communication</li>
 </ul>
 
-💼<b> Connect with Me</b>
-<p align="center">
-<a href="https://linkedin.com/in/sai-varshith-0a456620b"><img src="https://img.shields.io/badge/-SaiVarshith-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:saivarshith922@gmail.com"><img src="https://img.shields.io/badge/-saivarshith922@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<!-- Experience Section -->
+<h2>💼 Experience</h2>
+<ul>
+  <li><b>Data Analyst, ZS Associates</b> - Managed data for 40+ brands across 15+ markets, reducing operational inefficiencies by automating workflows and ensuring accurate data insights.</li>
+  <li><b>Business Analyst</b> - Conducted end-to-end data validation and collaborated with cross-functional teams to improve business decisions and streamline processes.</li>
+  <li><b>Data Engineer</b> - Built scalable data pipelines using PySpark and Azure Databricks, optimizing ETL processes and improving data accuracy.</li>
+</ul>
 
-<h2><i>⚙️ GitHub Analytics</i></h2>
+<!-- Projects Section -->
+<h2>🚀 Projects</h2>
+<ul>
+  <li><b>F1 Racing Insights</b>: Integrated racing data using Azure Data Lake, performed transformations using PySpark, and created interactive dashboards to analyze key racing metrics.</li>
+  <li><b>Forecast Validation</b>: Conducted comprehensive forecast validation for 4 markets, ensuring seamless data migration and improving planning accuracy.</li>
+</ul>
+
+<!-- GitHub Stats -->
+<h2>⚙️ GitHub Analytics</h2>
 <p align="center">
-<a href="https://github.com/sai-varshith">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=sai-varshith&show_icons=true&theme=algolia&locale=en&layout=compact" alt="sai-varshith"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sai-varshith&show_icons=true&locale=en&theme=algolia"/>
-</a>
+</p>
+<p align="center">
   <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=sai-varshith&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" alt="sai-varshith" />
 </p>
 
-![Profile Banner](https://your-custom-banner-url.com/banner.jpg)
+<!-- Additional Section -->
+<h2>🌟 Fun Fact</h2>
+<p>When I'm not analyzing data, I enjoy exploring new tech, cycling, and creating engaging YouTube content about data and tech.</p>
 
-<p align="center">🚀 Let's connect and collaborate on exciting data projects!</p>
+---
+<p align="center">Let's connect and explore opportunities together! 🚀</p>
