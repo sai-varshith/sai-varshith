@@ -1,6 +1,7 @@
 <!-- Banner Section -->
 <p align="center">
-  <img src="./A_modern,_professional_data_analyst_working_on_a_c.png" alt="Data Analyst Banner" width="100%" />
+  <img src="![image](https://github.com/user-attachments/assets/2ebf9988-c20a-4bfc-8a4e-9999f18a29d7)
+" alt="Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Sai Varshith Gadhamsetty</h1>
@@ -35,15 +36,14 @@
 <h2>💼 Experience</h2>
 <ul>
   <li><b>Data Analyst, ZS Associates</b> - Managed data for 40+ brands across 15+ markets, reducing operational inefficiencies by automating workflows and ensuring accurate data insights.</li>
-  <li><b>Business Analyst</b> - Conducted end-to-end data validation and collaborated with cross-functional teams to improve business decisions and streamline processes.</li>
-  <li><b>Data Engineer</b> - Built scalable data pipelines using PySpark and Azure Databricks, optimizing ETL processes and improving data accuracy.</li>
+  <li><b>Business Analysis</b> - Conducted end-to-end data validation and collaborated with cross-functional teams to improve business decisions and streamline processes.</li>
 </ul>
 
 <!-- Projects Section -->
 <h2>🚀 Projects</h2>
 <ul>
   <li><b>F1 Racing Insights</b>: Integrated racing data using Azure Data Lake, performed transformations using PySpark, and created interactive dashboards to analyze key racing metrics.</li>
-  <li><b>Forecast Validation</b>: Conducted comprehensive forecast validation for 4 markets, ensuring seamless data migration and improving planning accuracy.</li>
+  <li><b>Data Engineer</b> - Built scalable data pipelines using PySpark and Azure Databricks, optimizing ETL processes and improving data accuracy.</li>
 </ul>
 
 <!-- GitHub Stats -->
