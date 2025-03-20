@@ -44,35 +44,17 @@
   <li><b>Data Engineer</b> - Built scalable data pipelines using PySpark and Azure Databricks, optimizing ETL processes and improving data accuracy.</li>
 </ul>
 
-<!-- Interactive Projects Section -->
 <h2>🚀 Featured Projects</h2>
 <p align="center">
-  <a href="https://github.com/sai-varshith/F1-Racing-Insights" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/F1_Racing_Insights-Drive_Data_Insights-blue?style=for-the-badge&logo=github" alt="F1 Racing Insights" />
+  <a href="https://github.com/sai-varshith/F1-Racing-Insights" target="_blank">
+    <img src="https://img.shields.io/badge/F1 Racing Insights-Data Analysis & Visualization-blue?style=for-the-badge&logo=github" alt="F1 Racing Insights"/>
   </a>
-  <a href="https://github.com/sai-varshith/Lets-Talk" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Forecast_Validation-Enhancing_Accuracy-green?style=for-the-badge&logo=github" alt="Forecast Validation" />
+  <a href="https://github.com/sai-varshith/Lets-Talk" target="_blank">
+    <img src="https://img.shields.io/badge/Forecast Validation-Business Insights-green?style=for-the-badge&logo=github" alt="Forecast Validation"/>
   </a>
-  <a href="https://github.com/sai-varshith/cod-ex" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Data_Engineering_ETL-Optimizing_Workflows-orange?style=for-the-badge&logo=github" alt="Data Engineering ETL" />
+  <a href="https://github.com/sai-varshith/cod-ex" target="_blank">
+    <img src="https://img.shields.io/badge/Data Engineering ETL-Optimizing Workflows-orange?style=for-the-badge&logo=github" alt="Data Engineering ETL"/>
   </a>
-</p>
-
-<!-- CSS for Hover Effects -->
-<style>
-  a img {
-    transition: transform 0.3s ease, box-shadow 0.3s ease;
-  }
-  
-  a:hover img {
-    transform: scale(1.1);
-    box-shadow: 0 8px 16px rgba(0,0,0,0.2);
-  }
-</style>
-
-<!-- Fun Tip Section -->
-<p align="center">
-  <em>✨ Hover over the badges to explore my projects and experience the impact of data-driven solutions!</em>
 </p>
 
 <p align="center">🔎 Click on any project to explore further!</p>
