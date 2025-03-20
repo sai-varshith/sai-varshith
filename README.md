@@ -44,15 +44,21 @@
   <li><b>Data Engineer</b> - Built scalable data pipelines using PySpark and Azure Databricks, optimizing ETL processes and improving data accuracy.</li>
 </ul>
 
-<!-- Skills Progress -->
-<h2>📊 Skills Progress</h2>
+<!-- Projects Showcase -->
+<h2>🚀 Featured Projects</h2>
 <p align="center">
-  <img src="https://progress-bar.dev/90/?title=SQL" />
-  <img src="https://progress-bar.dev/80/?title=Python" />
-  <img src="https://progress-bar.dev/85/?title=Data_Visualization" />
-  <img src="https://progress-bar.dev/75/?title=Azure" />
-  <img src="https://progress-bar.dev/70/?title=PySpark" />
+  <a href="https://github.com/sai-varshith/F1-Racing-Insights">
+    <img src="https://img.shields.io/badge/-F1_Racing_Insights-blue?style=for-the-badge&logo=github" alt="F1 Racing Insights"/>
+  </a>
+  <a href="https://github.com/sai-varshith/Data-Validation-Project">
+    <img src="https://img.shields.io/badge/-Forecast_Validation-green?style=for-the-badge&logo=github" alt="Forecast Validation"/>
+  </a>
+  <a href="https://github.com/sai-varshith/Data-Engineering-ETL">
+    <img src="https://img.shields.io/badge/-Data_Engineering_ETL-orange?style=for-the-badge&logo=github" alt="Data Engineering Project"/>
+  </a>
 </p>
+<p align="center">🔎 Click on any project to explore further!</p>
+
 
 
 <!-- Additional Section -->
