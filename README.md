@@ -1,7 +1,6 @@
 <!-- Banner Section -->
 <p align="center">
-  <img src="![image](https://github.com/user-attachments/assets/2ebf9988-c20a-4bfc-8a4e-9999f18a29d7)
-" alt="Banner" width="100%" />
+  <img src="https://static.vecteezy.com/system/resources/previews/004/491/062/non_2x/programmer-working-concept-for-web-banner-man-work-with-code-and-programming-at-computer-creates-software-modern-person-scene-illustration-in-flat-cartoon-design-with-people-characters-vector.jpg" alt="Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Sai Varshith Gadhamsetty</h1>
