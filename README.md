@@ -1,5 +1,7 @@
 <!-- Banner Section -->
-![Data Analyst Banner](./A_modern,_professional_data_analyst_working_on_a_c.png)
+<p align="center">
+  <img src="./A_modern,_professional_data_analyst_working_on_a_c.png" alt="Data Analyst Banner" width="100%" />
+</p>
 
 <h1 align="center">Hi 👋, I'm Sai Varshith Gadhamsetty</h1>
 
@@ -55,8 +57,10 @@
 </p>
 
 <!-- Additional Section -->
-<h2>🌟 Fun Fact</h2>
-<p>When I'm not analyzing data, I enjoy exploring new tech, cycling, and creating engaging YouTube content about data and tech.</p>
+<h2>🌟 AWARDS & RECOGNITIONS</h2>
+<p>Runner-up in a hackathon organized by GitHub & Incubate IND</p>
+<p>CIS INCUBATEIND - HACKATHON : It was an incredible experience for our relatively new team, as it was our first time participating in a hackathon. Securing the position of runners-up made this achievement even more special and memorable for all of us</p>
+<p>Hacktoberfest 2021 - It is an Open Source Contribution. I completed the challenge of 5+ valid pull requests in the month of October organized by Digital Ocean and received the goodies and swags from the company</p>
 
 ---
 <p align="center">Let's connect and explore opportunities together! 🚀</p>
